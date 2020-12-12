@@ -3,6 +3,7 @@ package org.example;
 /**
  * Hello world!
  *
+ * @author wxz18
  */
 public class App 
 {
