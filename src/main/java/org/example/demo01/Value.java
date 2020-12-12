@@ -9,5 +9,6 @@ package org.example.demo01;
  */
 public class Value {
     public void main(String[] args) {
+        System.out.println("hello");
     }
 }
