@@ -2,7 +2,7 @@ package org.example.demo01;
 
 /**
  * @IDE : Intellij IDEA
- * @Author : Wu Xianzhi
+ * @Author : Wu XianZhi
  * @Date : 2020/12/12
  * @Time : 22:29
  * @Version : 1.0
