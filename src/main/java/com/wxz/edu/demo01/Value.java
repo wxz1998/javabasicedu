@@ -1,4 +1,4 @@
-package org.example.demo01;
+package com.wxz.edu.demo01;
 
 /**
  * @TOOLS : Intellij IDEA
