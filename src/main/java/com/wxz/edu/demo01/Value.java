@@ -8,7 +8,7 @@ package com.wxz.edu.demo01;
  * @Version : 1.0
  */
 public class Value {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("hello");
     }
 }

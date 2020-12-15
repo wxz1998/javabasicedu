@@ -1,6 +1,4 @@
-package com.wxz.edu.demo02;
-
-import com.wxz.edu.demo02.Employee;
+package com.wxz.edu.demo01;
 
 /**
  * @TOOLS : Intellij IDEA
@@ -10,7 +8,7 @@ import com.wxz.edu.demo02.Employee;
  * @Version : 1.0
  */
 public class EmployeeTest {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         Employee empOne = new Employee("RUNOOB1");
         Employee empTwo = new Employee("RUNOOB2");
 
