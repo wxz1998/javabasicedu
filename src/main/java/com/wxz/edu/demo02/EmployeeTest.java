@@ -1,4 +1,6 @@
-package com.wxz.edu.demo01;
+package com.wxz.edu.demo02;
+
+import com.wxz.edu.demo02.Employee;
 
 /**
  * @TOOLS : Intellij IDEA

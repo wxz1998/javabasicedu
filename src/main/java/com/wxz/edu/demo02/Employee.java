@@ -1,4 +1,4 @@
-package com.wxz.edu.demo01;
+package com.wxz.edu.demo02;
 
 /**
  * @TOOLS : Intellij IDEA
