@@ -8,7 +8,7 @@ package com.wxz.edu.demo02;
  * @Version : 1.0
  */
 public class PrimitiveTypeTest {
-    public void main(String[] args) {
+    public static void main(String[] args) {
         // byte
         System.out.println("基本类型：byte 二进制位数：" + Byte.SIZE);
         System.out.println("包装类：java.lang.Byte");
