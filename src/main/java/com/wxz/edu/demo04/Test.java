@@ -36,5 +36,15 @@ public class Test {
         //自减运算
         System.out.println("进行自增运算后的值等于" + b1);
         System.out.println("进行自减运算后的值等于" + d1);
+
+        // 关系运算
+        int a2 = 10;
+        int b2 = 20;
+        System.out.println("a == b = " + (a2 == b2));
+        System.out.println("a != b = " + (a2 != b2));
+        System.out.println("a > b = " + (a2 > b2));
+        System.out.println("a < b = " + (a2 < b2));
+        System.out.println("b >= a = " + (b2 >= a2));
+        System.out.println("b <= a = " + (b2 <= a2));
     }
 }
