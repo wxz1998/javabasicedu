@@ -87,5 +87,49 @@ public class Test {
         System.out.println("a && b = " + (a4 && b4));
         System.out.println("a || b = " + (a4 || b4));
         System.out.println("!(a && b) = " + !(a4 && b4));
+
+        // 赋值运算符
+        int a5 = 10;
+        int b5 = 20;
+        int c5 = 0;
+        c5 = a5 + b;
+        System.out.println("c = a + b = " + c5);
+        c5 += a5;
+        System.out.println("c += a  = " + c5);
+        c5 -= a5;
+        System.out.println("c -= a = " + c5);
+        c5 *= a5;
+        System.out.println("c *= a = " + c5);
+        a5 = 10;
+        c5 = 15;
+        c5 /= a5;
+        System.out.println("c /= a = " + c5);
+        a5 = 10;
+        c5 = 15;
+        c5 %= a5;
+        System.out.println("c %= a  = " + c5);
+        c5 <<= 2;
+        System.out.println("c <<= 2 = " + c5);
+        c5 >>= 2;
+        System.out.println("c >>= 2 = " + c5);
+        c5 >>= 2;
+        System.out.println("c >>= 2 = " + c5);
+        c5 &= a5;
+        System.out.println("c &= a  = " + c5);
+        c5 ^= a5;
+        System.out.println("c ^= a   = " + c5);
+        c5 |= a5;
+        System.out.println("c |= a   = " + c5);
+
+        // 条件运算
+        int a6, b6;
+        a6 = 10;
+        // 如果 a 等于 1 成立，则设置 b 为 20，否则为 30
+        b6 = (a6 == 1) ? 20 : 30;
+        System.out.println("Value of b is : " + b6);
+
+        // 如果 a 等于 10 成立，则设置 b 为 20，否则为 30
+        b6 = (a6 == 10) ? 20 : 30;
+        System.out.println("Value of b is : " + b6);
     }
 }
